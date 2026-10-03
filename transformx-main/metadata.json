@@ -1,0 +1,6 @@
+{
+  "name": "TRANSFORM-X | National Policy Transformation & Fact Verification Portal",
+  "description": "Official Government of India Digital Public Good for Automated Policy Dissemination, Canonical Master Facts Verification, and Zero-Hallucination Transformation (SIH26154)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
